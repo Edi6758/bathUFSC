@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05dc03bc.chunk.css",
+    "main.js": "/static/js/main.bbdc55e8.chunk.js",
+    "main.js.map": "/static/js/main.bbdc55e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.370dd132.js",
+    "runtime-main.js.map": "/static/js/runtime-main.370dd132.js.map",
+    "static/js/2.aa75691e.chunk.js": "/static/js/2.aa75691e.chunk.js",
+    "static/js/2.aa75691e.chunk.js.map": "/static/js/2.aa75691e.chunk.js.map",
+    "static/js/3.abf0e07c.chunk.js": "/static/js/3.abf0e07c.chunk.js",
+    "static/js/3.abf0e07c.chunk.js.map": "/static/js/3.abf0e07c.chunk.js.map",
+    "static/css/4.bee358b8.chunk.css": "/static/css/4.bee358b8.chunk.css",
+    "static/js/4.bd8a4a73.chunk.js": "/static/js/4.bd8a4a73.chunk.js",
+    "static/js/4.bd8a4a73.chunk.js.map": "/static/js/4.bd8a4a73.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2b43bb4116661afecc14578e0769b63a.js": "/precache-manifest.2b43bb4116661afecc14578e0769b63a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/4.bee358b8.chunk.css.map": "/static/css/4.bee358b8.chunk.css.map",
+    "static/css/main.05dc03bc.chunk.css.map": "/static/css/main.05dc03bc.chunk.css.map",
+    "static/js/3.abf0e07c.chunk.js.LICENSE.txt": "/static/js/3.abf0e07c.chunk.js.LICENSE.txt",
+    "static/js/main.bbdc55e8.chunk.js.LICENSE.txt": "/static/js/main.bbdc55e8.chunk.js.LICENSE.txt",
+    "static/media/adicionar.4a6d6ceb.svg": "/static/media/adicionar.4a6d6ceb.svg",
+    "static/media/dogs-footer.531cc6b1.svg": "/static/media/dogs-footer.531cc6b1.svg",
+    "static/media/dogs.531cc6b1.svg": "/static/media/dogs.531cc6b1.svg",
+    "static/media/enviar.57fa52ac.svg": "/static/media/enviar.57fa52ac.svg",
+    "static/media/estatisticas.5b48807f.svg": "/static/media/estatisticas.5b48807f.svg",
+    "static/media/feed.35f798d0.svg": "/static/media/feed.35f798d0.svg",
+    "static/media/Login.module.css": "/static/media/login.66cf14f3.jpg",
+    "static/media/sair.4175ea72.svg": "/static/media/sair.4175ea72.svg",
+    "static/media/Header.module.css": "/static/media/usuario.dc442992.svg",
+    "static/media/PhotoContent.module.css": "/static/media/visualizacao-black.957befc3.svg",
+    "static/media/FeedPhotosItem.module.css": "/static/media/visualizacao.4ce15ed8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.370dd132.js",
+    "static/js/3.abf0e07c.chunk.js",
+    "static/css/main.05dc03bc.chunk.css",
+    "static/js/main.bbdc55e8.chunk.js"
+  ]
+}
